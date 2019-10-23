@@ -142,8 +142,6 @@ public class SubmissionActivity extends AppCompatActivity {
         });
     }
 
-
-
     public void showSubmissions(Submission submission) {
 
         List<Result> result = submission.getResult();
